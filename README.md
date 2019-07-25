@@ -63,7 +63,8 @@ Using your HA configuration directory (folder) as a starting point you should no
 custom_components/traccar_cn/__init__.py
 custom_components/traccar_cn/device_tracker.py
 custom_components/traccar_cn/const.py
-custom_components/traccar_cn/helper.py```
+custom_components/traccar_cn/helper.py
+```
 
 ## Example configuration.yaml
 
