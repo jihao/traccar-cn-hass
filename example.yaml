@@ -1,0 +1,6 @@
+device_tracker:
+  - platform: traccar_cn
+    host: demo.traccar.cn
+    port: 8082
+    username: demo
+    password: demo

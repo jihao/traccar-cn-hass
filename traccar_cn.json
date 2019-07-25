@@ -1,0 +1,14 @@
+{
+    "traccar_cn": {
+        "version": "0.1.0",
+        "local_location": "/custom_components/traccar_cn/device_tracker.py",
+        "remote_location": "https://raw.githubusercontent.com/jihao/traccar-cn-hass/master/custom_components/traccar_cn/device_tracker.py",
+        "visit_repo": "https://github.com/jihao/traccar-cn-hass",
+        "changelog": "https://github.com/jihao/traccar-cn-hass/releases/latest",
+        "resources": [
+            "https://raw.githubusercontent.com/jihao/traccar-cn-hass/master/custom_components/traccar_cn/__init__.py",
+            "https://raw.githubusercontent.com/jihao/traccar-cn-hass/master/custom_components/traccar_cn/const.py",
+            "https://raw.githubusercontent.com/jihao/traccar-cn-hass/master/custom_components/traccar_cn/helper.py"
+        ]
+    }
+}
