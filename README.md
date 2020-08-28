@@ -76,6 +76,8 @@ device_tracker:
     username: demo
     password: demo
 ```
+上面的host服务端已不提供，对应的jar在tracker-server.jar，请自取~ 具体用法还请参考traccar官网。
+
 
 ## Configuration options
 
